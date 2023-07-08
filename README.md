@@ -6,14 +6,14 @@
 const TranDuoc ={
   name: "Trần Minh Được",
   age: 21,
-  gender: "Nam"
+  gender: "Nam",
   address: "Sóc Trăng",
-  major: "Khoa học máy tính"
-  email: "duoctran2527@gmail.com"
+  major: "Khoa học máy tính",
+  email: "duoctran2527@gmail.com",
   skills: {
     platform: "Nodejs",
     language:  ["JavaScript + TypeScript"],
-    framework: ["React", "Vue", "express"]
+    framework: ["React", "Vue", "express"],
     library: ["tailwind css", "React Query", "DaisyUi", "Yup Validation", "React Hook Form", "AntD", "Redux + Redux Toolkit"],
     database: ["mongoose", "MySQL"]
   }
