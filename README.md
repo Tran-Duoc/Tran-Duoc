@@ -1,42 +1,32 @@
-![Header](./github-header-image.png)
-
-<hr>
-
-```js
-const TranDuoc ={
-  name: "Trần Minh Được",
-  age: 21,
-  gender: "Nam",
-  address: "Sóc Trăng",
-  major: "Khoa học máy tính",
-  email: "duoctran2527@gmail.com",
-  skills: {
-    platform: "Nodejs",
-    language:  ["JavaScript + TypeScript"],
-    framework: ["React", "Vue", "express"],
-    library: ["tailwind css", "React Query", "DaisyUi", "Yup Validation", "React Hook Form", "AntD", "Redux + Redux Toolkit"],
-    database: ["mongoose", "MySQL"]
-  }
-}
-
-```
-
-#### Một chút về bản thân mình.
-
-**_+ Mình là người trầm tính ít nói. Mình thích những chổ yên tĩnh hơn là những chổ ồn ào._**
-
-#### Mục tiêu.
-
-**+ Mình đang cố gắng để trở thành một lập trình viên Front-End**
-
-<hr>
-
-#### Sở thích cá nhân.
-
-**+ Dạy học là sở thích của mình. Mình nhận ra được điều này khi mình chỉ bài cho bạn. Truyền tải những kiến thức mà mình biêt làm mình rất vui.**
-
+<h2 align="center">
+  Hi everyone 👋, I'm Tran Duoc
 <br/>
+  Software engineer at TPP Solutions
+</h2>
 
+<hr/>
+
+## About Me
+
+<ul>
+  <li> 
+    <b>FullName</b>: Tran Minh Duoc
+  </li>
+  <li>
+    <b>Age</b>: 22
+  </li>
+  <li>
+    <b>Major</b>: Computer science
+  </li>
+  <li>
+    <b>Address</b>: An Khanh Ward, Ninh Kieu District, Can Tho City
+  </li>
+  <li>
+    <b>email</b>: duoctm.169@gmail.com
+  </li>
+</ul>
+
+<hr/>
 #### Liên hệ với mình.
 
 <div align="left">
