@@ -2,10 +2,13 @@
   Hi everyone 👋, I'm Tran Duoc
 <br/>
   Software engineer at TPP Solutions
+<br/>
+  <span>
+    ❤
+    
+  </span>
 </h2>
-
-<hr/>
-
+ 
 ## About Me
 
 <ul>
@@ -27,7 +30,8 @@
 </ul>
 
 <hr/>
-#### Liên hệ với mình.
+
+## More Information
 
 <div align="left">
 <a href="https://github.com/Tran-Duoc" target="_blank">
@@ -39,6 +43,8 @@
 </div>
 
 <br/>
+
+## Skills
 
 <table>
   <tr>
@@ -108,8 +114,5 @@
  
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border:1px solid black; border-radius: 12px" align="center" />
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=R%E1%BA%A5t+vui+v%C3%AC+b%E1%BA%A1n+%C4%91%C3%A3+gh%C3%A9+qua.)](https://git.io/typing-svg)
+ 
